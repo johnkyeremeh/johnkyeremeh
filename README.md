@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm John👋🏾👨🏿‍💻
 
-<!--
-**johnkyeremeh/johnkyeremeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full-Stack Software Engineer!
 
-Here are some ideas to get you started:
+##### Current Technologies, languages & other dev goodies: React.js, JavaScript, Redux, Redux-Thunk, Ruby on Rails, Ruby, HTML, CSS, PostgreSQL, MySQL, SQLite, MongoDB, Webpack, Babel. Currently learning Node.js, TypeScript, NEXT.js, SCSS(SASS), TradewindCSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Check out my personal website for [recent projects](https://johnkyeremeh.github.io/portfolio-website/)
+- 🌱 I’m currently learning Node.js, TypeScript, NEXT.js, SCSS(SASS), TradewindCSS.
+- 💬 Feel free to ask me about anything!
+- ⚡ I've had many hobbies over the years including super smash bros, JRPGs more. 🔐
+
+🏡 [website](https://johnkyeremeh.github.io/portfolio-website/) | 🐦 [twitter](https://twitter.com/JohnKyeremeh/) | 👔 [LinkedIn](https://www.linkedin.com/in/johnkyeremeh/)
+
+
+
